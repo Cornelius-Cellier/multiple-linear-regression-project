@@ -1,2 +1,3 @@
 # multiple-linear-regression-project
-An assignment for the Python introduction course @EDHEC
+Python project for a python course @EDHEC
+with Clement DELAHAYE & Nicolas RONGEARD
